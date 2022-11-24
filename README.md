@@ -1,3 +1,3 @@
 # BitVault
 
-BitVault is a password manager hosted in Django.
+BitVault is a password manager hosted in Django .
