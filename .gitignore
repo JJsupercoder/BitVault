@@ -16,3 +16,5 @@
 BitVault/db.sqlite3
 BitVault/BitVault/__pycache__/settings.cpython-311.pyc
 BitVault/BitVault/__pycache__/urls.cpython-311.pyc
+BitVault/BitVault/__pycache__/
+BitVault/__pycache__/
